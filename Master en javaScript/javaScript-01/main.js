@@ -1,1 +1,3 @@
-console.log("Hola Mund");
+console.log("Hola Mundo");
+alert("Hola Mundo");
+document.write("<h1>Hola mundo</h1>")
