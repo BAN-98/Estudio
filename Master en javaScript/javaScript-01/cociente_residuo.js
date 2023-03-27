@@ -8,8 +8,7 @@ numero_dos = Number(prompt('Ingrese el segundo Numero'));
 cociente = numero_uno / numero_dos;
 residuo = numero_uno % numero_dos;
 
-document.write('<h1>El cociente es: ' + cociente + ' y el residuo es: ' + residuo + '<h1>');
-
 //Salida de Datos
+document.write('<h1>El cociente es: ' + cociente + ' y el residuo es: ' + residuo + '<h1>');
 
 
